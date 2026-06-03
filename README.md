@@ -51,6 +51,33 @@ You speak → Deepgram STT → Groq intent parser → Action executed → Deepgr
 
 ---
 
+### 🧩 AI-Work — Multi-Agent Personal AI Assistant
+
+> Full-stack personal AI assistant with specialized agents for memory management, goal tracking, and reminders. Built with Django REST Framework backend and React frontend.
+
+| Layer | Stack |
+|-------|-------|
+| **Backend** | Django REST Framework · Python · PostgreSQL |
+| **Frontend** | React · TypeScript |
+| **AI** | Specialized agents · Memory management · Goal tracking · Reminders |
+
+[![Python](https://img.shields.io/badge/Backend-Django%20REST%20%7C%20Python-092E20?style=flat-square)](https://github.com/ShubhamChougale01/AI-work)
+[![React](https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-61DAFB?style=flat-square)](https://github.com/ShubhamChougale01/AI-work)
+
+→ [**View repo**](https://github.com/ShubhamChougale01/AI-work)
+
+---
+
+### 🏢 Org Knowledge Hub — AI-Powered Company Knowledge Graph
+
+> AI-powered knowledge graph for Coditas — a chatbot that answers natural language questions about 155 employees, 7 departments, 36 roles, and 62 skills. Built with Neo4j and LangChain.
+
+[![Neo4j](https://img.shields.io/badge/Neo4j-Knowledge%20Graph%20%7C%20LangChain-008CC1?style=flat-square)](https://github.com/ShubhamChougale01/org-knowledge-hub)
+
+→ [**View repo**](https://github.com/ShubhamChougale01/org-knowledge-hub)
+
+---
+
 ### 🪝 Claude Code Hooks & Commands — Automated Code Quality Toolkit
 
 > 13 production-ready Claude Code hooks + AI-powered Git hooks that enforce code quality automatically — from the moment you edit a file to the moment you push to remote.
@@ -102,27 +129,6 @@ You speak → Deepgram STT → Groq intent parser → Action executed → Deepgr
 
 ---
 
-### 🏠 Maven OA Copilot — Google Drive AI Copilot
-
-> Website copilot that connects to Google Drive, indexes Docs and PDFs, and answers prompts with cited sources — full RAG pipeline over Drive content.
-
-[![RAG](https://img.shields.io/badge/RAG-Google%20Drive%20%7C%20LLM-orange?style=flat-square)](https://github.com/ShubhamChougale01/maven-oa-copilot)
-
-→ [**View repo**](https://github.com/ShubhamChougale01/maven-oa-copilot)
-
----
-
-### 🤖 Multi-AI Platform — Backend + Frontend
-
-> Multi-provider AI platform with a backend API and React frontend supporting multiple LLM backends simultaneously.
-
-[![Backend](https://img.shields.io/badge/Backend-Multi--AI%20API-009688?style=flat-square)](https://github.com/ShubhamChougale01/Multi-AI-Backend-)
-[![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square)](https://github.com/ShubhamChougale01/Multi-AI-Frontend)
-
-→ [**Backend**](https://github.com/ShubhamChougale01/Multi-AI-Backend-) · [**Frontend**](https://github.com/ShubhamChougale01/Multi-AI-Frontend)
-
----
-
 ### 🔬 RAG Pipeline
 
 > Production RAG pipeline implementation — document ingestion, embedding, vector search, and LLM-augmented retrieval using FAISS/ChromaDB.
@@ -130,16 +136,6 @@ You speak → Deepgram STT → Groq intent parser → Action executed → Deepgr
 [![Python](https://img.shields.io/badge/Python-RAG%20%7C%20FAISS%20%7C%20ChromaDB-blueviolet?style=flat-square)](https://github.com/ShubhamChougale01/RAG-pipeline)
 
 → [**View repo**](https://github.com/ShubhamChougale01/RAG-pipeline)
-
----
-
-### 🐛 Defect Detection Plugin
-
-> YOLOv8-based defect detection system deployed on iOS via CoreML — achieving 92% accuracy at 30 FPS for real-time property inspection at <200ms inference latency.
-
-[![Swift](https://img.shields.io/badge/iOS-YOLOv8%20%7C%20CoreML-FA7343?style=flat-square)](https://github.com/ShubhamChougale01/defect-detection-plugin)
-
-→ [**View repo**](https://github.com/ShubhamChougale01/defect-detection-plugin)
 
 ---
 
