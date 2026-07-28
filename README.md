@@ -13,7 +13,7 @@
 
 ## About Me
 
-Production AI/ML Engineer with **2+ years** architecting and deploying LLM-powered systems at scale. I build systems that ship — not demos.
+Production AI/ML Engineer with **2.8+ years** architecting and deploying LLM-powered systems at scale. I build systems that ship — not demos.
 
 - 🤖 **92% CV accuracy** — YOLOv8 defect detection deployed on iOS via CoreML at 30 FPS
 - 📉 **40% query resolution improvement** — Production RAG system serving 2,000+ monthly interactions
