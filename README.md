@@ -1,7 +1,7 @@
 # Hi, I'm Shubham Chougale 👋
 
-> **Production AI/ML Engineer · 2+ years building LLM-powered systems serving 10,000+ daily users**  
-> Specialized in Generative AI · Multi-Agent Orchestration · Voice AI · RAG Pipelines · MCP Server Design · Claude API
+> **Production AI/ML Engineer · 2.8+ years building LLM-powered systems**  
+> Specialized in Generative AI · Multi-Agent Orchestration · Voice AI · RAG Pipelines · MCP Server Design · Claude 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Chougale-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shubham-chougale/)
 [![GitHub](https://img.shields.io/badge/GitHub-ShubhamChougale01-181717?style=flat-square&logo=github)](https://github.com/ShubhamChougale01)
